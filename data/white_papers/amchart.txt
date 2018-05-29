@@ -1,0 +1,269 @@
+EXECUTIVE SUMMARY
+AMCHART is a patient driven EMR on a public/private blockchain with AI for analytics and incentive driven model for better outcomes. The incentive driven model is based on maintenance of health records, wellness program participation, population health, and data sharing with certified partners for analytics and proactive healthcare management. The consensus security is based on Intel SGX chips and running the consensus directly on hardware not only provides extra security but also accelerate transaction times and stabilizes our ability to decentralize the medical record appropriately. AMCHART will be utilizing Ethereum based Smart Contracts and a Hyperledger Sawtooth framework to create a secure pathway to access patient data for both patients and providers.
+
+HISTORY AND CURRENT STATE OF HEALTH RECORDS
+Electronic health records have been around for several decades and in that that time, EMR companies have not integrated themselves to share data, but siloed themselves to protect their own products, increase reliance on their legacy systems, and have prohibitive costs preventing mid to large sized groups from leaving them for better alternatives.
+
+Another consideration is that consumers find multiple iterations of EMRs from “free” to cloud based and even older on-site managed systems.  These centralized platforms have raised issues with security, difficulty with managing data breaches, and recent media reports describing data loss.
+
+Since the initiation of the Health Information Technology for Economic and Clinical Health (HITECH) Act, as part of the American Recovery and Reinvestment Act of 2009, was signed into law on February 17, 2009, to promote the adoption and meaningful use of health information technology.  This led to a mad scramble for providers to incorporate EHRs into their practice and to take their own traditional pathways for records reconciliation out of the equation.  Some of the benefits touted by EHR companies include:
+Easier access to patient information
+Improved billing and coding of visits
+Reduction in transcription costs
+Improved pharmacy based issues allowing quicker connection for medication fulfillment
+Improved preventative care plans
+Easier disease management, especially for chronic disease patients
+Evidenced-based practice
+
+These are all fantastic promises and allows providers improved patient care possibilities, but it also does not consider the learning curve for a staff, or the ability to incorporate modern technologies into old practice habits, which can be difficult and decrease provider productivity.
+
+As part of moving towards a consensus with the integration of new laws, providers scrambled to find EMRs which would be compatible with their practice and ended up with expensive, slow, and inefficient records which hindered their ability to practice and maintain the patient volumes with which they were accustomed. Also, a big selling point by many EMR companies was to utilize interfaces and allow one EMR to communicate with another to improve information sharing, improved access to medical management, and to create an ecosystem of health to affect patients and lower costs and malpractice.
+
+But this is not what is seen in the current marketplace.  Even though some EHR/EMR systems can be similar in the information obtained from patient and through physicians, the ability to share that information can be constrained because of company policies and protection of their own intellectual property.  This, in turn, leads to difficulty with keeping providers up to date, increased issues with compliance (maintaining safety of patient’s information) when documents are sent (by mail or faxing), and increases workloads on medical practices instead of doing what they do best, which is to care for patients.
+
+The other issue noted on these systems is the lack of access for the patient.  When a patient attempts to access their records on legacy systems, it is difficult to gain those records in a timely manner.  Often, patients cannot obtain a digital record, but must pay for their records to be printed and picked up or mailed later.  If a patient has an immediate appointment with another practitioner, they may find getting to the right person in a medical records department to fax a record or to print it may take 2-3 days.
+
+HOW DID AMCHART BEGIN?
+
+During his time in a multidisciplinary practice, Aman Quadri, PT, DPT, Cert. MDT and CEO of AMSYS Blockchain noted long wait times for records to see a patient for therapy and physician partners would have to perform new patient evaluations since up-to-date records were either unavailable or incomplete.
+
+This set off an opportunity for this practice to create a Record Keeping System in house, but was confined only to their private clinic and information sharing was not possible with other legacy systems.   Also, as other information arrived from other practitioners either through digital or paper forms, a small staff was needed to place those records into the system.
+
+Due to frustration, some practitioners kept their own paper records which made in-house information sharing even more difficult.  Several years later, with changes in healthcare reimbursement, the clinic moved on and was absorbed into a larger hospital network.  This network had a commercially available product (a large legacy system) and all providers in the existing practice were forced to switch to the new system.  As the clinic adapted to the new system, provider productivity fell by 35%.  Adapting to a new legacy system was difficult and the user experience was convoluted at best.  As providers were seeing less patients, the biggest source of frustration for physicians was the lack of interoperability between systems, especially similar EMR platforms.
+
+Patients were also frustrated that a new multi-million-dollar system did not allow for real time access, nor did it allow them to digitally transfer data to the provider of their choosing.  Because of these frustrations, it led to an initial start to an EMR in 2012 between the physicians, therapists, and staff, but was abandoned due to the prohibitive cost and lack of cooperation from legacy systems to allow for integration.
+
+In 2016, Aman Quadri and a few physician partners began to approach new cloud based ideations for an EMR, but due to large commercially available cloud-based systems, it was also abandoned while waiting for newer technologies to emerge.  During early 2017, the idea was formed to begin a new EMR based on blockchain principles, which could help solve the issues of safety, portability, and accessibility while maintaining an immutable chain of record evidence.  And so, AMCHART was born and a development team established in late Summer of 2017.
+
+WHAT ARE SOME OF THE ISSUES MEDICAL PRACTICES ARE FACING
+
+Medical practices have been adapting towards the use of electronic medical records and through surveys, direction communication, and available Internet data, some of the biggest issues noted are:
+Protection of patient data and maintaining HIPAA compliance
+Maintaining updated software on local machines as well as the EHR provider chosen to reduce security risks
+Decreased productivity as practices learn new processes for EHRs
+Lack of interoperability between EHRs
+Cost of set-up and maintenance
+Copy and pasting of information which can lead to misleading health information
+Difficulty with provider/staff adoption of EHR
+
+There is also another key thing to consider, as the change is coming from fee for service to value based services, there is movement towards increased cooperation between providers to maintain accurate health records.  Providers are seeing that with changing from fee for service (which is to be paid by the procedure they perform) to a valued based system (where you are reimbursed by the outcomes produced for the patient), it will require changes in how patient care is accomplished along with increasing wellness initiatives.  This shift in payment structures will require practices to maintain proper charting methods and to be able to document changes in patient status.
+
+It also does not help that Medicare and Medicaid EHR Incentive Programs have created meaningful use guidelines that are difficult to obtain or glean from certain health records.  And as there are talks of changes to reimbursement with increased tie-in to meaningful use, it makes it more apparent that a Universal Healthcare Record is needed, which can help facilitate the guidelines listed below:
+Improve Quality, Safety, Efficiency
+Engage Patients and Families
+Improve Care Coordination
+Improve Public and Population Health
+Ensure Privacy and Security for Personal Health Information
+
+Even though the HITECH Act was the initial start to improve on sharing of data and technology, it was destined to fail as the health information exchanges (HIE) were set up.  Providers were leery of sending their data to a central depository and even though nearly 500million was set aside for multiple states to subsidize their efforts, it was a massive failure.  The simple reason was a lack of trust, difficulty with sharing of information, and a lack of transparency.  All of these issues can be solved with the use of blockchain technology.
+
+AMCHART GOAL
+
+Because value based services will be the new norm for providers and how they will be reimbursed, it will be imperative to create a simple, secure, easily adaptable record that can be accessed by any provider through the blockchain.  The goal for AMCHART will start with an initial intake record (a universal intake form) that can be used by all.  We will be focusing our efforts on the United States healthcare market and then expand as needed to other countries/regions.  Some of the important information required for each patient will be:
+Initial intake
+Family/Personal History
+Allergies/Medications
+Social History
+Current providers
+Past Medical History
+Imaging
+Diagnostic test results
+Any other testing
+HIPAA disclaimers
+
+Security/HIPAA Compliance
+Because value based services require sharing information to maintain proper records, the use of blockchain technology is appropriate, but security and compliance are major concerns.  To find the right balance, the AMCHART team has been considering multiple ways to maintain HIPAA compliance and build upon the security of data to eliminate loss of information.  Because we place high value to secure data and provide scalability of our platform we have chosen to utilize Hyperledger Sawtooth as our foundation and secured distributed off chain database.  We will keep evaluating newer technologies (like bigchainDB) and re-engineer to make sure it is truly distributed, secure and decentralized.
+
+Considerations for protection of PHI could include encryption of personal data, improved use of cloud based services off the chain to maintain integrity of information, to create new encryption algorithms, or in time, to create a whole new blockchain developed to support the HIPAA environment.  The new blockchain would not necessarily be for the AMCHART build, but to support future healthcare development.
+
+To reiterate, because we want to ensure protection of patient identified data, security of the data transmitted, and utilization of blockchain technology, AMCHART will be a hybrid model based with a permissioned access of consortium members.  The term hybrid model is a reference to the technical architecture and is a combination of both private and public blockchain principles.  The AMCHART consortium includes all parties who agree to this model of operation. A model where the patient truly owns the data and drives how/when their record is being shared.  Any provider organization will require permissioned access to the systems by the patient.
+
+The disclaimer for being patient centric is that any provider who is part of the patient’s care, through consent recorded on the blockchain, will be provided access to the medical record.  This will help to reduce the risk for fraud, medication abuse, and provide for a continuum of care for the patient.
+
+POTENTIAL MEMBERS OF A CONSORTIUM:
+
+Most of the functionality in the blockchain will be related to securing the record of a transaction, maintaining the immutability of the smart contracts, and to gather data for wellness/healthcare management.  In technical terms, which will be discussed later, Intel SGX provides areas of execution called enclaves that protect sensitive code and data. So, although we are securing the record of a transaction off-chain, the enclaves also allow the transactions to happen in a secure region.
+
+PHI, such as secure personal identifying information will need to be off chain and with improvement in blockchain technology, moved in future application updates.  There will be options to integrate off chain and plug and play blockchain products to create a robust, full service electronic medical record to perform medical reconciliation, inclusion of blood work/imaging, and the use of non-personal data for machine learning/AI for predictive analytics for disease pathways and proactive management of health.  This would be considered Phase I of 3, which will be discussed later in the paper.
+
+Access to the blockchain will be through a secure tunnel into the EHR framework.  We will be utilizing a token, which will allow for a member of the consortium to have access to the patient data needed for proper care, but also allow the provider to update the health record, which can be accessed by any member of the consortium.  Patients and providers would have equal access and the data can be anonymized for statistical analytics, monitored for predictive treatments, use machine learning/AI in conjunction with wearable devices (IoT) to monitor progress towards wellness goals set by patient + provider.
+
+ACCESS TO THE RECORD FOR PATIENTS AND PROVIDERS
+
+The AMCHART development team is looking to make the access to the medical record seamless for both patients and providers.  It may seem complicated through words, but AMCHART aims to make it as simple as logging into your favorite website.
+
+Patient will login through an identity authentication mechanism (blockchain based) à Web interface will log in the user into the permissioned Blockchain (Hyperledger) à Once in, the basic profile will be seen including demographics, wellness data, etc.
+
+After login, patient will have access to tokens available to perform any user transaction, see what transactions have been made, what updates have been performed to the medical record, and all transactions associated with it.
+
+There is concern for a patient’s private key and how it can be maintained.  We will provide several methods of storage including secure storage for AMCHART participants with two-factor authentication process and back-ups to their own systems available through support.  We are also exploring new blockchain technology that will allow their private key to be shifted into a short name or picture with ease of entry into the medical record for easy recall of their private key.
+
+PROPOSED PROVIDER/PAYOR/ORGANIZATION INVOLVEMENT
+
+Currently, providers, physician groups, hospitals and clinics pay monthly fees to have access to their medical records with large maintenance fees also administered by legacy EMR companies.  With our methodology and access, we will provide a shift in the cost structure for the medical community.  These providers will pay a monthly fee to become part of the consortium (at a significantly reduced cost) and patients will have access through a secure channel with the use of their token and secondary security layer.
+
+Use of the token not only allows access to the chain, but we create a transparent, immutable trust structure that disallows the current EHR/EMR standards and begins to bring all parties together for Value Based Care.  Being able to allow all practitioners a centralized consortium based depository, it can align the original vision of the HITECH Act and allow for increased trust from practitioners to adopt a universal electronic medical record.
+
+PROJECT TIMELINE
+
+All the timelines are tentative in nature and require the ability to forge the blockchain/API/apps required for initial phases along with testing for function in real-world environments.  AMCHART already has connections with medical practices and ancillary facilities to work in a test environment and help our team to create the proper procedures for the new token system.  Access to the system and how the token will gain its usage will be determined by the guidance from providers and patients.
+
+Phase I – this will be the initial MVP (minimal viable product) with the security structures enabled.  Both providers and patients will be able to have access and patients can create medical records, create permissioned access, and build upon the medical records.  This will occur by mid to late January 2018.  We will also begin the process of developing our mobile application and testing wearables for real time patient monitoring of heart rate, blood pressure, O2 sat, weight, blood sugar, and heart health during this time for initiating wellness programs
+
+Phase II – during this period, which is happening throughout Phase I, we will be utilizing all datasets for statistical analysis and working with research groups, payors, providers through machine learning and AI processes.  We will be working to answer specific questions through AI and to assist these groups with proper utilization of data.  Wellness programs will be tested through partnerships with several physician groups and wellness programs in California, Texas, and Missouri.  We expect completion of this phase by end of Summer 2018.
+
+Phase III – We will have full activation of wellness programs with app usage and real-time monitoring and access of data through the EHR.  We will have full AI capabilities to assist all organizations to answer the questions they want to address about the healthcare cycle (disease processes, medication usage, wellness management, proactive diagnosis, etc.).  Also, we will begin integration of billing components and payment processing from payors to providers through blockchain intermediaries.
+
+The AMCHART development team will work to forge partnerships to utilize current blockchain technology from other healthcare companies along with layering our tech stack on top of it.  rough current partners and plug and play modules available that can be modified with security
+
+Patients will need to trust that the system is accurate about the records moving between hospitals and within the network. They will also know that the information has undergone validation which provides further confidence in the system.
+
+Security is a crucial area in healthcare currently, especially as data sharing becomes more popular.
+
+Efforts toward interoperability between blockchain and middleware, along with population health and accountable care, means that the data is going to be exchanged across systems that has varying degrees and various levels of privacy and security rules and regulations.
+
+Cross-chain along with HIE security is a crucial area, especially as data sharing becomes more popular.  Customers want information readily available, but it is imperative to ensure that the data is only used, or disclosed, as is appropriate and permitted by regulations. Patient information would need to remain secure through any cross-chain transfer process, so covered entities should consider the necessary safeguards that may need to be implemented as well.
+Data encryption implementation is process. AMCHART will be using methods such as NIST cryptographic standards. NIST addresses the importance of encrypting sensitive data by transforming it into an incomprehensible format until a recipient with a private key can unlock the information. AMCHART will adopt strong and effective cryptographic standards and guidelines that are broadly accepted and trusted by our stakeholders.
+
+DELINEATION OF TOKEN DISTRIBUTION:
+
+Based on the monies raised throughout our token sale, AMCHART organization will delineate tokens as follows:
+10% – legal, accounting, financial audit, development of interfaces, website, marketing, promotion, staffing, bug bounty programs
+10% – utilized for patient/provider/payor incentive programs
+50% – development of current AMCHART initiative and future improvements. We would also utilize funds as needed to enhance the token, develop other blockchain initiatives to improve security and compliance issues, and to maintain the ecosystem
+20% – continued development of token sale, maintenance of server architecture, nodes, mining pool creation, and code algorithm.
+10% – held in reserve for unforeseen issues related to development
+
+It is to be noted that NO FOUNDER of the AMCHART will be receiving tokens during the token sale.  There will be two sale periods, one of which will be a pre-sale period for larger organizations to purchase tokens, and a public token sale.
+
+TECHNICAL SPECIFICATIONS – UNDERSTANDING OUR METHODOLOGY
+
+AMCHART will be built on Hyperledger Sawtooth lake platform. The platform is designed to make smart contracts safe for consortia. The advantage of Sawtooth is that its highly modular and the data model are implemented in a transaction family. This feature allows the flexibility to build custom transaction families that can help specific domain like healthcare. Sawtooth Lake provides core transaction families as models including identity to manage PHI/PII information.
+
+The transaction processors in Sawtooth are pluggable objects that are opaque to the Sawtooth and allows to query and modify the blockchain state. The transaction processors connect to validator using REST API. The blockchain will be supplemented by Intel Software Guard Extensions(SGX) to boost the blockchain’s privacy, security and scalability.
+
+AMCHART Core platform provides low latency, system interoperability and improved data quality for data mining. The system provides on-chain permissioning, security, data integrity and lets the patient control the ownership of the data across network. The modular feature of Sawtooth allows extensive integration capability.
+
+The system can be described in terms of the assets, participants and transactions that are to be shared in the blockchain network:
+
+Assets can be a patient record that can be shared or transacted or intangible assets such as securities, intellectual property or even reference data.
+
+Participants are the actors in a business network who need to share transaction information. Participants are usually providers or businesses but could also represent people, regulators or other stakeholders.
+
+Transactions describe what can be done to the assets within the network.  The above three components run on distributed processing systems, that governs how applications run.
+
+Transaction families – the codification of the business rules that implement transactions – are effectively stored procedure calls that are run in the network and whose outputs are agreed upon by the consortia members through a process of consensus.
+
+Consensus:
+PoET: The “Proof of Elapsed Time,” is a lottery protocol that builds on Trusted Execution Environments (TEEs) provided by Intel’s Software Guard Extensions (SGX) to address the needs of large populations of participants. This generates fair, verifiable random wait timers and signed certificates of timer expiration. This mechanism substantially reduces the computation and energy cost of ensuring fair distributed consensus. According to Intel, the algorithm scales to thousands of participants and will run efficiently on any Intel processor that supports SGX.
+Quorum voting: Quorum Voting, is an adaptation of the Ripple and Stellar consensus protocols and serves to address the needs of applications that require immediate transaction finality.
+
+
+AMCHART Core (Hyperledger Sawtooth network that runs every single transaction of AMCHART blockchain through consensus of participating entities) The diagram below illustrates the technologies utilized for AMCHART:
+
+
+AMCHART Analytics
+
+AMCHART Analytics platform ingests data from various sources including AMCHART Core, partner datasets and wellness data from providers. There will be API interfaces to ingest additional datasets from other constituents in the future.
+
+The AMCHART analytics platform is modeled based upon the Lambda architecture to handle batch and streaming data. The data from AMCHART core is processed as a batch data and stored in Hbase while any device data that are streaming in nature are sent via Kafka messaging pipeline for the same destination.
+
+Apache Ranger provides the ability to manage policies for access to files, folders, databases. The Ranger Key Management Service provides a cryptographic key management service for HDFS data at rest encryption. Ranger also provides the data stewards with deep visibility into their environment and provides audit trail to access from AMCHART core
+
+Distributed processing framework like Apache Spark and AI frameworks like Tensorflow will be used to train and develop models for use cases like
+Procedure Analytics
+Patient Analytics
+Predictive Analytics
+Patient Readmission Analytics
+Provider network Referral leakage
+
+Identity
+Sawtooth platform requires the role to be stored with the policies associated to it. The native identity system is an extensible role and policy based system that can used for different types of entities in the system. The requester is identified by the public key derived from the signing key. The verifiers examine incoming messages against the policy and the configuration and either grant or deny access. The validator accepts transactions and batches only if both on-chain and off-chain configurations agree.
+
+Transactor Roles:
+default
+transactor
+transaction_signer
+transactio_signer.{tp_name}
+batch_signer
+
+
+Patient – Provider Relationship
+In Sawtooth the transactions between parties are defined by an extensible system called transaction families. The family definition is driven by the domain model that defines
+a set of transactions between entities like patients, providers, lab services, hospital systems, among others.
+
+Patients, providers and other entities are actors in the system. Records represent items like ADT records, HL7 messages such as CCR, CDA, FHIR resource, etc.  There are opportunities to partner with existing blockchain technology companies to smooth the transition of these data messages and the team will examine whether they can integrate that into our platform.
+
+Our initial stages for deployment are as follows:
+
+Stage 1 –
+MVP Development v 1.0
+Smart contracts are written on the Ethereum blockchain to provide access to patient records including demographic info, PHI and wellness data. A user interface exists for the patient to manage a sample record.  The records are stored in an off-chain and the transactions are done through the Hyperledger Sawtooth framework. The consortia members with the right privileges can directly access the data without the tokens.  AMCHART will not have access to PHI. The platform will be permission based and the control will always be with the patient. The patient delegates control to the participants of the consortia.
+
+Blockchain environment: Ethereum testnet, Hyperledger Sawtooth test environment
+
+Stage 2 –
+MVP Development v 2.0
+Smart contracts are updated to handle additional records. The integration to off-chain components (HIPAA compliant datastore primarily) are completed and tested.  Test Trusted Execution Environment on Intel Software Guard Extension (SGX) on Azure or on another datacenter. Certify the environment to HIPAA compliant before going Beta.
+
+Blockchain environment: Ethereum testnet, Hyperledger Sawtooth test environment, Secure Datastore
+
+Step 3
+Beta version
+Public release includes all the patient intake forms for successfully onboarding the patients to providers subscribed to the consortia. Further transactional components will be added based on our on-going engagement with the consortia members.
+Engage 3rd party OEM and service providers to certify appropriate implementation of technical components like Intel SGX, Azure platform, Disaster recovery strategy
+
+Blockchain environment: Ethereum Mainnet, Hyperledger Sawtooth production environment, Secure Datastore.
+
+Stage 4 –
+Release 1.0
+Stable, secure and functioning platform. Ensure the most stable release of Hyperledger Sawtooth is used. Complete testing with test group. Complete ERC20 token integration with the private chain so that the token can be utilized on the platform to gain access for the patients.
+
+Blockchain environment: Ethereum Mainnet, Hyperledger Sawtooth production environment
+
+Stage 5
+Release 2.0
+Stable, secure and functioning platform. Fix any defects observed in previous releases. Add wellness care integration to the platform to incentivize the patients by providing AMCHART tokens and other reward types based on reward programs offered by AMCHART partners.
+
+Blockchain environment: Ethereum Mainnet, Hyperledger Sawtooth production environment
+
+Stage 6
+Release 3.0
+Stable, secure and functioning platform. Fix any defects observed in previous releases. Integrate the blockchain platform to AMCHART Analytic platform.
+
+Blockchain environment: Ethereum Mainnet, Hyperledger Sawtooth production environment, Analytics platform beta edition.
+ 
+BLOCKCHAIN PARTNERSHIPS:
+
+As the development team of AMCHART looks to change the way we share healthcare records and information, we must also look towards other companies working on related products and work towards solidifying the healthcare landscape.  We want to be collaborative in our approach and utilize companies who have engineered the pieces we need for our build, but also to share the information we have learned to help them reach their potential.  For years, information and companies have remained siloed, but that was never the intent of what the HITECH ACT was set out to do and we do not intent to silo our experiences and initiatives.
+
+HOW WE PLAN TO EXECUTE AMCHART:
+
+AMCHART will be an incentive driven model and plans to integrate multiple pieces of data over time.  The development team wants each phase to not only be able to stand alone, but also for all the parts to be cohesive in nature.
+
+PATIENT-CENTRIC APPROACH:
+
+Being that AMCHART will be patient-centric, with strong provider involvement to help build the medical record, we have a responsibility to market to patients first and payors/providers second.  We will begin marketing efforts directly to patient advocacy groups, payors, and health education communities on the inherent issues with current EMR systems and how our solution can provide them with increased control of their private records.  Since the data will be vital for access by patients and providers for appropriate care models, AMCHART plans to utilize the AMC token in various roles.  These will include:
+
+Initial access to the medical record chain, by creation of their initial intake record. These private key accessed records can be shared and levels of permissions can be established on who or what consortium members can access them.
+Since data sets and patient records can be subdivided into identified and de-identified data, patients will have a commodity available to them which can be utilized by researchers, payors, and pharmaceutical companies. By allowing access to their data, patients will be awarded AMC tokens. This data can then be utilized to help with creating a proper wellness initiative for the patient as part of an individualized wellness program.
+As AMCHART progresses, patient data will be utilized for machine learning/AI purposes for wellness and proactive healthcare management. We believe as the dataset grows (including tests, measures, lab work, multiple physician encounters, etc.), it will create the ability to identify potential disease processes that can managed before they can cause an issue, decreasing the chances for expensive medical intervention.  Once their dataset reaches certain thresholds, patients who opt in to allow for data mining will be awarded tokens.
+As part of the AMCHART wellness initiatives, we will be increasing partnerships with wellness centers/program, providers, and loyalty programs. Some of the areas we can monitor as part of a wellness initiative could include:  decreased physician/hospital visits, decreased loss of time from work, improving vital sign scores, increased activity levels, etc.  As we work with wellness program and care providers, AMCHART team will create a list of metrics, such as those listed above to track and data mine to determine effectiveness.  AMCHART patient stakeholders will be awarded tokens for reaching and maintaining those milestones.
+
+AMCHART’s patient driven model allows to active involvement between patient and providers to improve current health, but also to impact future health goals to reduce the burden on providers and hospitals.
+
+Advantages for use of the AMCHART system would be that patients would have complete control and access to their records at any time.  Portability and accessibility will be eased through from our system.  They will also be the gatekeepers for permissioned access through their own private key.  Another advantage is the ability to maintain a proper record trail from one provider to another, which can be assisted by patients and providers in the consortium.
+
+Disadvantages can include a learning curve to utilize the technology and maintenance of their own record.  Providers may provide push-back as well for adoption as this will require more cooperation from their staff and the patient.  Creating a proper mechanism for maintaining access to all providers who are involved in the care of a patient will be crucial to medical management, diagnostic testing, and maintenance of a full record since patients can limit access to providers in the system.
+
+PAYORS/PROVIDERS –
+
+Our team would welcome government and payor involvement as well.  As patient involvement and advocacy improves, we will initiate token incentive programs for those consortium members as well.  Areas where token initiation will occur in future releases includes:
+
+When lab companies, other EMR companies, providers, or payor systems agree to become part of the consortium and allow access to existing data to be added to the patient record, these organizations will be awarded tokens.
+Research organizations who join the consortium, utilize permissioned data sets and publish their data, will be rewarded tokens.
+Wellness organizations who help AMCHART to create standards for wellness programs and track patient progress directly to the EHR will be awarded tokens for milestones reached.
+
+Payors and providers can delineate tokens back to the patients, use them for incentives for their own staff to create better processes for integration, and even reward their teams for gains made through internal wellness programs.
+
+Our goal remains to create a Universal Medical Record and throughout the process and development we understand that hurdles and unforeseen issues may arise.  Therefore, our team intends to integrate new applications as future releases allow, create partnerships with other blockchain companies for collaborative inclusion and to be open to all future changes by the medical community.  We want to layer applications on top of the AMCHART portal until a full and robust system is created to decentralize the medical record landscape and empower patient first care

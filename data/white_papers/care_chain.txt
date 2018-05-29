@@ -1,0 +1,33 @@
+A joint effort to establish Blockchain Infrastructure and Personal Data Management for Health
+When laying the foundation for a robust interoperable healthcare system we need to start at the protocol level and design new infrastructure that is owned and controlled by no one and everyone. We need identity and digital value protocol layers and immutable health records controlled by their rightful owners. This is the promise of Blockchain and the starting point for a reinvented healthcare system.
+ABOUT
+The promise and value of blockchain technology comes from how it can enable coordination of large scale collaboration in open ecosystems. However, in order to minimise coordination , initially, we propose the establishment of a national consortia within the Swedish ecosystem to tackle the regulatory challenges in a confined and local context first.
+We are not developing the technology but rolling out the infrastructure to start testing and take advantage of the automation and security benefits to be reaped already today. The first and most important fix is to flip the data ownership model towards Self-Sovereign Health Records. We are ready to deploy this but for resiliance and to achieve security by numbers in our consensus algorithm we need members to run and guarantee network nodes.
+The CareChain consortium was founded by CareChain AB in March 2017 and we are now actively soliciting co-founding partners.
+GOVERNANCE
+WHAT WE DO:
+As far as possible, we intend to take advantage of the tools of the trade and automate most of the decision making using Smart Contracts
+STANDARDIZATION;
+We will continue to seek membership in relevant standardisation organisations to track these emerging technologies and interoperability protocols.
+OPERATIONS;
+The founding partner, CareChain AB, manages the infrastructure. Members can choose to take advantage of the fully managed Blockchain-as-a-Service, or run self-hosted network nodes, including available laptop nodes.
+MEMBERS
+This technology is applicable horisontally across all types of organisations.
+Hospitals
+Need access to efficient and accurate health history, post-op follow-up  Academia
+To get access to reliable crowd-sourced anonymous data.  Care Providers
+Access to future-proof patient-centric health records database without the legal burden of having to protect sensitive personal data.
+Pharmacies
+To enable direct patient-centric communication and for the ability to flag cross-care provider contraindications  Pharmaceuticals
+For access to reliable crowd-sourced anonymous data including stats about off-label usage, for supply chain tracking and to run large scale clinical trials.  Health Insurers
+Incentivization to encourage healthier habits. To combat claim settlement fraud and to enable new business models.
+Startups
+For easier compliance with regulations and legislation and to better serve their users not creating yet another data silo.  Network Operators
+To provide next generation Internet infrastructure and new identity centric business models.  Government
+Better citizen health and improved perception of services while delivering huge cost savings and to experiment with f.i social bonds.
+Organisations
+Cost-effective, reduced time-to-market with services and cooperations aimed at meeting objectives, not least for the underserved.  Fintech
+To provide next generation Internet infrastructure and new identity centric business models.  Medtech
+To equip devices with Blockhain identities in order to transact and sign data.
+GLOBAL TECHNOLOGY CONSORTIA
+We are members the Enterprise Ethereum Alliance and follow closely the use case work being done in the HyperLedger Healthcare Working Group.
